@@ -1,4 +1,4 @@
-# dot-matrixx-js
+# dot-matrix-js
 
 use this to generate a dot matrix display
 
